@@ -15,6 +15,7 @@ Horiseon is a marketing compant that supports small businesses market their serv
 
 ## Website 
 *https://github.com/Katehamilton1/horiseon1.git
+[screenshot.zip](https://github.com/Katehamilton1/horiseon1/files/7275953/screenshot.zip)
 
 ## Contribution
 - Kate Hamilton 
